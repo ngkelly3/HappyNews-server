@@ -1,4 +1,4 @@
-# Readable API Server
+# HappyNews API Server
 
 ## Installation
 
